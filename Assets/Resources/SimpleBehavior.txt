@@ -1,0 +1,9 @@
+Seq
+  Foo
+  Sel
+    Fail
+    Bar
+  Foo
+  Par
+    Bar
+    Foo
